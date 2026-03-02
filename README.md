@@ -37,10 +37,13 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### 🎮 Game Dev
 ![p5.js](https://img.shields.io/badge/p5.js-000000?style=for-the-badge&logo=p5.js)
 ![Roblox Studio](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
