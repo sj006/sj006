@@ -55,6 +55,7 @@
 <p align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=sj006&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sj006&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sj006&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -66,3 +67,8 @@
 > Designing modular game architecture
 > Mastering DSA deeply
 > Learning AI fundamentals
+```
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
