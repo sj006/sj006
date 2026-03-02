@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+games+%F0%9F%8E%AE;I+craft+web+apps+%F0%9F%8C%90;I+love+algorithms+%F0%9F%A7%A0;Always+learning+something+new+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+games+%F0%9F%8E%AE;Crafting+web+apps+%F0%9F%8C%90;Training+in+the+art+of+algorithms;Designing+and+refining+systems;Learning+something+new" />
 </p>
 
 ---
